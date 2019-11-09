@@ -9,3 +9,7 @@ func Hello() {
 func World() {
 	fmt.Println("The world will be better.")
 }
+
+func Peace() {
+	fmt.Println("May the world peace.")
+}
